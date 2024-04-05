@@ -1,0 +1,28 @@
+{
+    "name": "GH0$T #1958",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/903.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cat"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "egyptian mau"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "happi one"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "closed"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "mouth open"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "GH0$T #3020",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/2751.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sunset"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "wakizashi"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "egyptian mau"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "yoroi"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "angry"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "earth element"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "fish"
+        }
+    ]
+}

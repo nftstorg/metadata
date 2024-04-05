@@ -1,0 +1,36 @@
+{
+    "name": "GH0$T #15",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/1003.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "mountain view"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "machete"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "persian"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "water gi"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "closed"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "kasa"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "tongue out"
+        }
+    ]
+}

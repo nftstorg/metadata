@@ -1,0 +1,36 @@
+{
+    "name": "GH0$T #4086",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/1591.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "monlight forest"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "katana"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "angora"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "hitatare light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "normal"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "ronin"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "smile"
+        }
+    ]
+}

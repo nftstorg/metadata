@@ -1,0 +1,32 @@
+{
+    "name": "GH0$T #1456",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/1092.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "monlight forest"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "sphinx"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "hitatare light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "closed"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "kanmuri"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "mouth open"
+        }
+    ]
+}

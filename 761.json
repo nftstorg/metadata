@@ -1,0 +1,28 @@
+{
+    "name": "GH0$T #761",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/2269.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cat"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "japanese bobtail"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ronin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "normal"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "smile"
+        }
+    ]
+}

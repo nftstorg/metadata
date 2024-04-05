@@ -1,0 +1,36 @@
+{
+    "name": "GH0$T #3641",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/3143.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cat"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "sphinx"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "samue one"
+        },
+        {
+            "trait_type": "Face Marks",
+            "value": "red stripes"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "closed"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "kasa"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "fish"
+        }
+    ]
+}

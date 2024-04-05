@@ -1,0 +1,36 @@
+{
+    "name": "GH0$T #3139",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/4772.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cat"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "tessen air"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "siamese"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "hanten"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "red"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "kanzashi"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "mouth open"
+        }
+    ]
+}

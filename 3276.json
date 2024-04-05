@@ -1,0 +1,32 @@
+{
+    "name": "GH0$T #3276",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/753.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "bamboo forest"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "nodachi"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "japanese bobtail"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ronin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "mouth open"
+        }
+    ]
+}

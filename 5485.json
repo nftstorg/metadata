@@ -1,0 +1,36 @@
+{
+    "name": "GH0$T #5485",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/4242.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "bamboo forest"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "kopesh"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "angora"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "samue two"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "ronin"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "fish"
+        }
+    ]
+}

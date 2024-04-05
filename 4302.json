@@ -1,0 +1,36 @@
+{
+    "name": "GH0$T #4302",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/3070.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "red plain clouds"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "nodachi"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "maine coon"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "hitatare dark"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "angry"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "kasa"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "long fangs"
+        }
+    ]
+}

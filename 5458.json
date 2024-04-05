@@ -1,0 +1,36 @@
+{
+    "name": "GH0$T #5458",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/3672.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "monlight forest"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "kanabo"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "ragdoll"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "air gi"
+        },
+        {
+            "trait_type": "Face Marks",
+            "value": "blue stripes"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "fish"
+        }
+    ]
+}

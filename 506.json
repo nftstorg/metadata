@@ -1,0 +1,36 @@
+{
+    "name": "GH0$T #506",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/405.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "grey plain clouds"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "wakizashi"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "angora"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Gi one"
+        },
+        {
+            "trait_type": "Face Marks",
+            "value": "blue pattern one"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "long fangs"
+        }
+    ]
+}

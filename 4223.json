@@ -1,0 +1,32 @@
+{
+    "name": "GH0$T #4223",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/2670.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "snowy hills"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "naginata"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "sphinx"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "blue yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "long fangs"
+        }
+    ]
+}

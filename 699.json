@@ -1,0 +1,36 @@
+{
+    "name": "GH0$T #699",
+    "description": "Embrace your inner warrior and join the samurai army! ",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/1913.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "green plain clouds"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "tessen air"
+        },
+        {
+            "trait_type": "Breeds",
+            "value": "calico"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "hitatare light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "normal"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "hachimaki two"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "mouth open"
+        }
+    ]
+}

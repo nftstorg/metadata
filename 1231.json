@@ -1,0 +1,12 @@
+{
+    "name": "Wizard #1231",
+    "description": "There is magic in every adventure, as long as you dare to see it.",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/5553.png",
+    "attributes": [
+        {
+            "trait_type": "1/1",
+            "value": "wizard"
+        }
+    ]
+}

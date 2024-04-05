@@ -1,0 +1,12 @@
+{
+    "name": "Sailor #725",
+    "description": "A man without a goal is like a ship without a rudder.",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/nftstorg/Base-ronins/main/img/5548.png",
+    "attributes": [
+        {
+            "trait_type": "1/1",
+            "value": "sailor"
+        }
+    ]
+}
